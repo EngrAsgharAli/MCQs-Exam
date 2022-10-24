@@ -1,0 +1,185 @@
+{
+  "question": [
+    "Q1. The dimension of e-commerce that enables commerce across national boundaries is called_______.?",
+    "Q2. E-commerce technologies have improved upon traditional commerce technologies in______?",
+    "Q3. Which one of the following is not one of the major types of e-commerce?",
+    "Q4. Compared to B2C e-commerce, B2B e-commerce is ______?",
+    "Q5. Which of the following is not considered to be one of the three phases of e-commerce?",
+    "Q6. The idealistic market envisioned at the outset of the development of e-commerce is called a ______?",
+    "Q7. The primary source of financing during the early years of e-commerce was _______.?",
+    "Q8. The type of firms that benefited the most during the consolidation period of e-commerce were _______.?",
+    "Q9. All of the following are technologies used to gather information about you online except ______?",
+    "Q10. A _________ is the set of planned activities designed to result in a profit in a marketplace?",
+    "Q11. Which of the following is not a key element of a business model?",
+    "Q12. The source of revenue in a subscription revenue model is _____?",
+    "Q13. Which of the following is an example of a portal?",
+    "Q14. All of the following are major B2C business models except ______?",
+    "Q15. The _________ business model involves an independently owned vertical digital marketplace for direct inputs?",
+    "Q16. Compared to Internet users, the number of cell phone subscribers is _________?",
+    "Q17.  Industry structure is defined as _____?",
+    "Q18. The area of actual or potential commercial value in which a company intends to operate is a _______?",
+    "Q19. A perfect market is one in which _____?",
+    "Q20. Which of the following is not a horizontal portal?",
+    "Q21.  A situation where there are no differences among products or services, and the only basis of choosing products is price is known as ______.?",
+    "Q22.  A strategy designed to compete in all markets around the globe is called a _____ strategy?",
+    "Q23. Which of the following is not one of the stages of the development of the Internet?",
+    "Q24. In 1961, __________ published a paper on packet switching networks?",
+    "Q25. The component of TCP/IP that provides the Internet's addressing scheme and is responsible for the actual delivery of packets is ______?"
+  ],
+  "answer": [
+
+    2,
+    3,
+    1,
+    4,
+    3,
+    4,
+    3,
+    1,
+    4,
+    1,
+    4,
+    3,
+    3,
+    2,
+    2,
+    4,
+    1,
+    1,
+    3,
+    3,
+    4,
+    1,
+    3,
+    1,
+    2
+  ],
+  "options": [
+
+    [ "Interactivity",
+      "Global reach",
+      "Richness.",
+      "Ubiquity."
+    ],
+    [ "Richness",
+      "Reach",
+      "Both richness and reach",
+      "Neither richness nor reach"
+    ],
+    [ "C2B.",
+      "B2C",
+      "B2C",
+      "C2C"
+    ],
+    [ "Of equal size",
+      "Slightly smaller.",
+      "Slightly large",
+      "Much larger"
+    ],
+    [ "Innovation.",
+      "Consolidation.",
+      "Preservation",
+      "Reinvention"
+    ],
+    [ "Bailey market.",
+      "Baxter market",
+      "Bergman market",
+      "Bertrand market"
+    ],
+    [ "Bank loan",
+      "Large retail firms",
+      "Venture capital funds",
+      "Initial public offerings"
+    ],
+    [ "Large, traditional firms.",
+      "First movers.",
+      "Pure online companies",
+      "ISPs"
+    ],
+    [ "Spy Ware.",
+      "Cookies",
+      "Gmail",
+      "Anonymizers."
+    ],
+    [ "Business model.",
+      "Profit mode",
+      "Business plan",
+      "Revenue model"
+    ],
+    [ "Value proposition.",
+      "Competitive advantage",
+      "Market strategy.",
+      "Universal standards"
+    ],
+    [ "Fees from advertisers in exchange for advertisements.",
+      "Fees for business referrals",
+      "Fees from subscribers in exchange for access to content or services.",
+      "Fees for enabling or execution a transaction."
+    ],
+    [ "Amazon",
+      "eBay",
+      "Yahoo",
+      "Facebook"
+    ],
+    [ "Content provider",
+      "Industry consortium",
+      "Transaction broker",
+      "Service provider"
+    ],
+    [ "E-distributor",
+      "Exchange",
+      "E-procurement",
+      "Private industrial network"
+    ],
+    [ "About the same",
+      "Slightly fewer",
+      "Much fewer",
+      "Much large"
+    ],
+    [ "The nature of the players in an industry and their relative bargaining power",
+      "A set of plans for achieving long term returns on the capital invested in a business firm",
+      "Set of planned activities designed to result in a profit in a marketplace.",
+      "How a company's product or service fulfills the needs of customers."
+    ],
+    [ "Market space",
+      "Marketplace",
+      "Perfect market",
+      "Bertrand market"
+    ],
+    [ "One firm develops an advantage based on a factor of production that other firms cannot purchase",
+      "One participant in the market has more resources than the others",
+      "There are no competitive advantages or asymmetries because all firms have equal access to all the factors to production",
+      "Competition is at a minimum, as each niche market within an industry is served by the company with the greatest competitive advantage"
+    ],
+    [ "AOL",
+      "Yahoo",
+      "Sailnet",
+      "MSN/Windows Live"
+    ],
+    [ "A value web.",
+      "Value chain",
+      "Profit",
+      "Commoditization."
+    ],
+    [" Scope.",
+      "Differentiation",
+      "Cost",
+      "Focus"
+    ],
+    [" Innovation",
+      "Institutionalization.",
+      "Globalization",
+      "Commercialization."
+    ],
+    ["Leonard Kleinrock,",
+      "Ray Tomlinson",
+      "Bob Metcalfe",
+      "Vint Cerf."
+    ],
+    ["TCP",
+      "IP",
+      "The Network Layer",
+      "The Application Layer"
+    ]
+  ]
+}
